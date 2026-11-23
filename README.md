@@ -1,36 +1,21 @@
-# Uttam Kumar Singh — Portfolio
 
-A responsive Next.js portfolio for AI/LLM engineering, AI infrastructure, applied research, and full-stack work.
+# Uttam Kumar Singh
 
-## Run locally
+I’m a software developer interested in building useful products with AI and full-stack technologies.
 
-```bash
-npm install
-npm run dev
-```
+My work focuses on AI/LLM systems, RAG applications, and the infrastructure that makes them reliable in production. I also enjoy building web applications from the ground up.
 
-Open http://localhost:3000.
+### A few things I’ve worked on
 
-## Deploy to Vercel
+- **SemantiCache** — semantic caching and an LLM gateway
+- **AutoPatch** — a multi-agent pipeline for CI repair
+- **MSME Setu** — a RAG assistant for navigating government schemes
 
-1. Create a GitHub repository and push this folder.
-2. Sign in at https://vercel.com and choose **Add New → Project**.
-3. Import the repository. Vercel detects Next.js automatically.
-4. Keep the default build settings and click **Deploy**.
-5. Add your custom domain in the project settings if you have one.
+### Tech I work with
 
-## Deploy to Render
+Python, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, and AWS.
 
-1. Push this folder to GitHub.
-2. In Render, choose **New → Web Service** and connect the repository.
-3. Build command: `npm install && npm run build`
-4. Start command: `npm run start`
-5. Choose a Node runtime and deploy.
+### Find me
 
-## Before publishing
-
-- Replace the LinkedIn URL if you use a different profile.
-- Add your GitHub profile and real project/demo links when available.
-- Confirm that all project descriptions and metrics are accurate and public-safe.
-- Update `metadataBase` in `app/layout.tsx` to your live domain after deployment.
-- The resume currently lists the email and phone; the site intentionally uses email as the public contact method.
+- [LinkedIn](https://www.linkedin.com/in/uttam-kumar-singh-445b73372/)
+- [Email](mailto:09uttamkumarsingh@gmail.com)
